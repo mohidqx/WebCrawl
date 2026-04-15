@@ -1,0 +1,48 @@
+{
+  "app": {
+    "name": "TeamCyberOps Crawler Dashboard",
+    "version": "5.0.0",
+    "author": "@mohidqx",
+    "github_org": "https://github.com/mohidqx",
+    "window_width": 1800,
+    "window_height": 1100
+  },
+  "theme": {
+    "primary_red": "#CC0000",
+    "dark_red": "#8B0000",
+    "accent_red": "#FF1744",
+    "bg_dark": "#1a1a1a",
+    "bg_darker": "#0f0f0f",
+    "text_primary": "#ffffff",
+    "text_secondary": "#b0b0b0",
+    "success_green": "#00ff00",
+    "warning_yellow": "#ffcc00",
+    "error_red": "#ff3333",
+    "info_cyan": "#00bfff",
+    "border_dark": "#333333"
+  },
+  "crawler": {
+    "default_depth": 4,
+    "default_timeout": 15,
+    "default_threads": 5,
+    "max_threads": 20,
+    "default_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "ssl_verify": false,
+    "follow_redirects": true,
+    "max_retries": 3,
+    "retry_delay": 1
+  },
+  "export": {
+    "formats": ["JSON", "CSV", "XML", "HTML", "TXT"],
+    "default_format": "JSON",
+    "include_timestamp": true,
+    "auto_save": true
+  },
+  "ui": {
+    "font_mono": "Consolas",
+    "font_size_title": 16,
+    "font_size_normal": 12,
+    "font_size_small": 10,
+    "default_theme": "dark_red"
+  }
+}
