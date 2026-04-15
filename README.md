@@ -153,8 +153,11 @@
 
 ### Installation
 ```bash
+# Clone the Project
+git clone https://github.com/mohidqx/WebCrawl.git
+
 # Navigate to project
-cd crawler
+cd WebCrawl
 
 # Install dependencies
 pip install -r requirements.txt
