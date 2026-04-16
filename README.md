@@ -44,6 +44,7 @@
 > **8-tab professional reconnaissance framework** with background threading (zero freezing), EXTREME-DARK professional UI, real-time charts and statistics, full automated workflows, SQL database integration (auto-save to logs/), and 260+ integrated security features.
 
 ---
+<img width="1502" height="1117" alt="MainGUI" src="https://github.com/user-attachments/assets/ead2b353-99c1-400b-9dc8-ac8f8e4188ca" />
 
 # 🔴 WebCrawl by TeamCyberOps - v5.4 THREADING EDITION
 **Professional Web Reconnaissance Dashboard | GitHub: @mohidqx | Organization: TeamCyberOps**
